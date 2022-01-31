@@ -7,3 +7,11 @@
  
 Hi, i’m 16 years old programmer. I’m live in Russia, Moscow.
 I hope you enjoy my projects!
+
+### Main projects
+
+| Projects | Description |
+| ------ | ------ |
+| [IsAbsent Api][IsAbsentApi] | Open FastAPI API for IsAbsent service |
+| [Terraria fishing bot][TerFishBot] | Simple fishing bot for Terraria, based on OpenCV |
+| [All random][AllRandom] | Website with random values(use random.org) |
