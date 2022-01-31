@@ -15,3 +15,7 @@ I hope you enjoy my projects!
 | [IsAbsent Api][IsAbsentApi] | Open FastAPI API for IsAbsent service |
 | [Terraria fishing bot][TerFishBot] | Simple fishing bot for Terraria, based on OpenCV |
 | [All random][AllRandom] | Website with random values(use random.org) |
+
+[TerFishBot]: <https://github.com/Deformater/terraria_fishing_bot>
+[IsAbsentApi]: <https://github.com/IgorDuino/isabsent_api>
+[AllRandom]: <https://github.com/Deformater/all_random>
