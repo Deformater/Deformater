@@ -24,5 +24,5 @@ I hope you enjoy my projects!
 ## Some statistics 📈
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deformater)](https://github.com/anuraghazra/github-readme-stats) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deformater&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Deformater&count_private=true&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deformater&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Deformater stats](https://github-readme-stats.vercel.app/api?username=Deformater&count_private=true&show_icons=true&theme=radical)
