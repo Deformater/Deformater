@@ -20,4 +20,5 @@ I hope you enjoy my projects!
 [IsAbsentApi]: <https://github.com/IgorDuino/isabsent_api>
 [AllRandom]: <https://github.com/Deformater/all_random>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deformater)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deformater)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deformater&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
