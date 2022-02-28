@@ -20,9 +20,9 @@ I hope you enjoy my projects!
 [TerFishBot]: <https://github.com/Deformater/terraria_fishing_bot>
 [IsAbsentApi]: <https://github.com/IgorDuino/isabsent_api>
 [AllRandom]: <https://github.com/Deformater/all_random>
-
+<!-- 
 ## Some statistics 📈
 
-![Deformater stats](https://github-readme-stats.vercel.app/api?username=Deformater&count_private=true&show_icons=true&theme=dracula)
+![Deformater stats](https://github-readme-stats.vercel.app/api?username=Deformater&count_private=true&show_icons=true&theme=dracula) -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deformater&theme=dracula) -->
