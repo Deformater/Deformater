@@ -1,7 +1,7 @@
 # **Here [@Deformater](https://github.com/Deformater) (Grigoriy Muravenko)**
 
  - 💻 I’m backend python programmer
- - 📙 I’m currently learnin [ITMO University](https://itmo.ru)
+ - 📙 I’m currently studing [ITMO University](https://itmo.ru)
  - 🔧 I’m currently working on - IsAbsent [API](https://github.com/IgorDuino/isabsent_api)   &  [Telegram bot](https://github.com/IgorDuino/isabsent_tg)
  - 👪 Our team - [СupSoft](https://cupsoft.ru)
  - 📃 My portfolio - [Site](https://grimur.ru) & [CV](https://drive.google.com/drive/folders/1sYgxwTqXFXdNutsLyZPEPId9KBjpyiwK?usp=sharing)
