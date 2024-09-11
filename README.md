@@ -6,7 +6,7 @@
  - 👪 Our team - [СupSoft](https://cupsoft.ru)
  - 📃 My portfolio - [Site](https://grimur.ru) & [CV](https://drive.google.com/drive/folders/1sYgxwTqXFXdNutsLyZPEPId9KBjpyiwK?usp=sharing)
  
-Hi, i’m 18 years old programmer. I’m live in Russia, Moscow.
+Hi, i’m 19 years old programmer. I’m live in Russia, Moscow.
 I hope you enjoy my projects!
 
 ### Main projects
