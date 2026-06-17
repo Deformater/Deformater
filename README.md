@@ -2,7 +2,7 @@
 
  - 💻 I’m backend python programmer
  - 📙 I’m currently studing in [ITMO University](https://itmo.ru)
- - 🔧 I’m currently working on - Multix AI [API](https://multix-ai.ru)
+ - 🔧 I’m currently working on - [Multix AI](https://multix-ai.ru)
  - 📃 My portfolio - [Site](https://grimur.ru) & [CV](https://drive.google.com/file/d/1CJBba5mp3HxyjNJ8_SJ2HI5u6Wmq4sDf/view?usp=drive_link)
  
 Hi, i’m 20 years old programmer. I’m live in Russia, Moscow.
